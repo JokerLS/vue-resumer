@@ -1,6 +1,7 @@
 # vue-resumer
 
 > A Vue.js project
+通过 Vue 来构建一个简单的在线简历编辑器，通过 leancloud 提供的 API 实现注册与登录功能，同时使用 Vuex 进行状态管理。
 
 ## Build Setup
 
