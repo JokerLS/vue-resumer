@@ -83,10 +83,9 @@
   }
 </script>
 
-<style lang="scss">
+<style scoped lang="scss">
   #preview {
     min-height: 150px;
-    // border: 1px solid yellow;
     padding: 16px;
   }
   h1, p {
@@ -107,5 +106,12 @@
   }
   dd {
     margin-top: 8px;
+    word-break: break-all;
+    width: 600px;
   }
+  h2 {
+    display: inline-block;
+    background: lightgrey;
+  }
+  
 </style>
